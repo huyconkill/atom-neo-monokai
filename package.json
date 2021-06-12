@@ -1,0 +1,16 @@
+{
+    "name": "atom-neo-monokai",
+    "theme": "syntax",
+    "version": "1.0.0",
+    "description": "A colorful and high contrast version of Monokai syntax theme",
+    "keywords": [
+        "monokai",
+        "syntax",
+        "theme",
+        "colorful",
+        "bright",
+        "contrast"
+    ],
+    "repository": "https://github.com/huyconkill/atom-neo-monokai",
+    "license": "MIT"
+}
